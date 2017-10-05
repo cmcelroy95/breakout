@@ -1,4 +1,4 @@
 import Game from './game';
-import './snake.css';
+import './breakout.css';
 
 const game = new Game();
